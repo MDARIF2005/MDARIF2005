@@ -1,24 +1,156 @@
 <h1 align="center">Hi 👋, I'm MD Arif</h1>
-<h3 align="center">B.Tech Student | AI & ML | Digital Growth Strategist</h3>
+<h3 align="center">AI & ML Engineer | Python Developer | Final-Year B.Tech Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarif2005&label=Profile%20views&color=0e75b6&style=flat" alt="mdarif2005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdarif2005" alt="mdarif2005" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md.arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.arif" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arif" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arifsmazggf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arifsmazggf" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://mdarif2005.github.io/portfolio/">Portfolio</a> •
+  <a href="https://github.com/MDARIF2005">GitHub</a> •
+  <a href="https://www.linkedin.com/in/md-arif-b17093301/">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdarif2005&label=Profile%20views&color=0e75b6&style=flat" alt="mdarif2005" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarif2005&show_icons=true&locale=en&layout=compact" alt="mdarif2005" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarif2005&show_icons=true&locale=en" alt="mdarif2005" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarif2005&" alt="mdarif2005" /></p>
+- 🎓 Final-year B.Tech student in **Computer Science & Engineering (AI & ML)** at HITAM, Hyderabad.
+- 💼 6.5 months of industry experience at **Galactic Solutions Pvt. Ltd.**
+- 🚀 Worked on the **KodeMI Labs Career Mall** live project as part of the development team.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI.
+- 👨‍🏫 Lead of the **HITAM AI Club**, coordinating technical activities and hands-on learning.
+- 🌱 Currently exploring **RAG, AI Voice Agents, and advanced AI applications**.
+- 💡 Interested in building practical AI solutions for real-world problems.
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AI-Powered Civic Issue Detection</h3>
+<p align="center">
+AI-based civic issue detection using MobileNetV2, TensorFlow, OpenCV, Grad-CAM and Gemini API.
+</p>
+<p align="center">
+<a href="https://github.com/MDARIF2005/civic-issue-">GitHub Repository</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">Aco Bot – Android Voice Chatbot</h3>
+<p align="center">
+Android voice chatbot using Java, Speech Recognition and Text-to-Speech APIs.
+</p>
+<p align="center">
+<a href="https://github.com/MDARIF2005/aco_bot">GitHub Repository</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Price Drop Alert</h3>
+<p align="center">
+Django-based price tracking application with automated email notifications.
+</p>
+<p align="center">
+<a href="https://github.com/MDARIF2005/Price_Drop_Alert">GitHub Repository</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">HITAM AI Club Website</h3>
+<p align="center">
+Full-stack club website built with React, Node.js and Firebase.
+</p>
+<p align="center">
+<a href="https://hitam-ai-club.vercel.app/">Live Website</a> •
+<a href="https://github.com/MDARIF2005">GitHub Profile</a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Industry Experience
+
+**Galactic Solutions Pvt. Ltd.**
+- 6.5 months of internship experience.
+- Worked on the KodeMI Labs Career Mall live project.
+- Contributed to feature implementation, testing, debugging and development.
+
+**KodeMI Labs Project Repository:**  
+<a href="https://github.com/KodeMI-Labs/KodeMI-Labs-AI">View Repository</a>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+<a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/></a>
+<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
+<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/></a>
+<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MDARIF2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDARIF2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p>
+<img align="center" src="https://streak-stats.demolab.com?user=MDARIF2005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=MDARIF2005&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/md-arif-b17093301/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/MDARIF2005" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" alt="GitHub"/>
+</a>
+<a href="https://mdarif2005.github.io/portfolio/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="30" width="40" alt="Portfolio"/>
+</a>
+</p>
+
+<p align="center">
+<b>Building AI solutions. Learning continuously. Creating real-world impact. 🚀</b>
+</p>
